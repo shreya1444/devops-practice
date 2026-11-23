@@ -17,4 +17,4 @@ I am learning DevOps step by step.
 ## My Goal
 
 To become a DevOps Engineer.
-Today I learned Git add, commit and push.
+Today I learned Git add, commit and push...
